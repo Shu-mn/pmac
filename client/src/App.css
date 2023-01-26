@@ -1,0 +1,23 @@
+*{
+    margin:0;
+}
+
+
+.body {
+    padding: 0;
+    height:1000px;
+    background-image: url("./img/background.jpg");
+    background-color: aqua;
+    }
+
+.footer {
+    background-color: blue;
+    border-top:2px solid red;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    }
+    
